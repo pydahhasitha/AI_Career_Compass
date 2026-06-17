@@ -65,7 +65,9 @@ Google Colab
 Deployment
 Streamlit Community Cloud
 
-Workflow
+## Workflow
+
+```text
 Dataset
    │
    ▼
@@ -100,6 +102,7 @@ Resume Analyzer
    │
    ▼
 Deployment
+```
 Machine Learning Model
 Algorithm Used
 
