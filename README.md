@@ -64,22 +64,7 @@ Development Environment
 Google Colab
 Deployment
 Streamlit Community Cloud
-Project Architecture
-                    Streamlit Frontend
-                           │
-       ┌───────────────────┼───────────────────┐
-       │                   │                   │
-       ▼                   ▼                   ▼
 
- Placement Model     Resume Analyzer     Gemini AI
-
-(Random Forest)      (PDF Processing)   Career Advisor
-
-       │                   │                   │
-       └───────────────────┼───────────────────┘
-                           ▼
-
-                 AI Career Compass Dashboard
 Workflow
 Dataset
    │
