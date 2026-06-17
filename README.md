@@ -140,11 +140,23 @@ Or create a .env file:
 GEMINI_API_KEY=YOUR_GEMINI_API_KEY
 Running the Application
 streamlit run app.py
+## Running the Application
 
-Application will run at:
+```bash
+streamlit run app.py
+```
 
+The application will be available at:
+
+```text
 http://localhost:8501
-Project Structure
+```
+
+---
+
+## Project Structure
+
+```text
 AI_Career_Compass/
 │
 ├── app.py
@@ -165,7 +177,7 @@ AI_Career_Compass/
 │   └── placement_model.pkl
 │
 └── assets/
-Results
+```
 Placement Prediction
 
 Input:
